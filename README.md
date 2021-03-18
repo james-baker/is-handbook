@@ -1,4 +1,8 @@
-# README
+---
+description: this is a page description
+---
 
-test readme sync
+# Table of Contents
+
+test readme sync. now a page rename
 
