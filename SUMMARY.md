@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Table of Contents](README.md)
+* [Meta](README.md)
 * [Mission](mission.md)
+* [Decision-making](decision-making.md)
 
